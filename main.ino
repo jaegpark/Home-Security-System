@@ -50,7 +50,6 @@ void reset(){
  soundAlarm = false;
  enteringPassword = false;
  objectDetected = false;
-  
 }
 
 // This method reads input from the slide switch 
